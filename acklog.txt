@@ -1,0 +1,43 @@
+Log of A8 Engine 8.47.1 run at Tue Oct 30 21:20:43 2018
+Мага on Windows NT/2000/XP version 6.1 Build 7601
+Options main.c -diag -ta
+App: C:\Program Files (x86)\GStudio8\acknex.exe in H:\Рабочий стол\THIEF MOVEMENT\
+
+MM mixer opened
+DSOUND device opened
+DI interface opened
+Start Window opened(c) Conitec - www.3dgamestudio.com
+A8 Engine - Pro Edition V8.47.1 - Mar  9 2016
+Development version
+Registered to: Magomet Kochkarov
+
+Mouse found
+Наушники (Cirrus Logic CS4206A (AB 78)) opened
+ATI Mobility Radeon HD 4670 pure T&L device 1ff9 detected
+D3D device ATI Mobility Radeon HD 4670 1ff9 selected.
+acknet.dll opened
+ackoal.dll opened
+ackphysX.dll opened
+Compiling MAIN.C - [Esc] to abort.......
+PATH data\....... 0.718 sec
+Running MAIN.C.
+2 objects
+Main started at 1.826
+D3D_Init Window: 1024x600 -> Window: 1x1024x600x32
+Video memory found: 2016 MB
+LevelInit at 1.892
+9 entities 0 cameras 3 lights 0 sounds 0 paths
+ 2 lmaps 1 textures 67 meshes 67 submeshes 1718 faces...ok
+LevelReady at 2.094
+def_startup started
+Main loop at 2.094....
+1st frame with 2016 MB. at 2.103
+Normal exit at 53.549
+Close level,DLL,objects
+Free input,funcs,panels,defs,syns,views,strings,vars..ok
+Free sounds,bmaps,fonts,hash,defs1,script..ok
+Close dx,multimedia,D3D,engine,nexus..ok
+A8 Engine - Pro Edition V8.47.1 - Mar  9 2016
+(c) Conitec - www.3dgamestudio.com
+Registered to: Magomet Kochkarov
+Close window at 53.611
